@@ -1,0 +1,6 @@
+{
+  "name": "Logistics Deal Tracker",
+  "description": "A custom logistics dashboard and planner to manage inbound and outbound deal tracking with dynamic data rows, auto-calculation systems, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
